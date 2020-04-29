@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+seaborn
+chart_studio
+plotly.offline
+plotly_graph_objs
+sklearn
+statsmodels
+yellowbrick
