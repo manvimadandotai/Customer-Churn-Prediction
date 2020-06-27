@@ -10,3 +10,9 @@ Churn of the existing customers is an important aspect for most businesses and a
 ### Install the required libraries through command line
 
 `pip3 intsall -r requirements.txt`
+
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
+
+
